@@ -1,0 +1,6 @@
+@CS_DependencyInjected_SimpleAPI_HostAddress = http://localhost:5014
+
+GET {{CS_DependencyInjected_SimpleAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
