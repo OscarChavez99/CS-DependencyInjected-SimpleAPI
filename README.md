@@ -38,10 +38,3 @@ This project is a simple CRUD application designed to learn how APIs work in ASP
 ### 3.5 Delete student
 1. Click on "Delete" then on "Try it out" <br> ![image](https://github.com/OscarChavez99/CS-DependencyInjected-SimpleAPI/assets/80979314/45c52dcb-551f-4e13-8721-d7ca593e4c89)
 2. Enter an existing ID then click on "Execute" <br> ![image](https://github.com/OscarChavez99/CS-DependencyInjected-SimpleAPI/assets/80979314/8ae048cd-aaca-4d4d-80de-83b37b2a0787)
-
-
-
-
-
-
-
