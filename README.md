@@ -5,14 +5,14 @@ This project is a simple CRUD application designed to learn how APIs work in ASP
 ![image](https://github.com/OscarChavez99/CS-DependencyInjected-SimpleAPI/assets/80979314/e701d3ab-795e-4b96-a535-741b6e316062)
   
 ## 1-To run the project pt.1
-1. Open a database management tool and create a database (I named it as follows: "cs_dependency_injected_simple_api") <br> ![image](https://github.com/OscarChavez99/CS-DependencyInjected-SimpleAPI/assets/80979314/22581afe-94dd-43d7-b5fa-70875ed32419)
+1. Open a database management tool and create a database (I named it as follows: "cs_simple_apis") <br> ![image](https://github.com/OscarChavez99/CS-DependencyInjected-SimpleAPI/assets/80979314/5cd0af97-76cf-474a-88e0-9b40e06f1a32)
 2. Create a table named "students" with the following structure <br> ![image](https://github.com/OscarChavez99/CS-DependencyInjected-SimpleAPI/assets/80979314/bf2ed021-21a2-4f15-b88b-c4f3f6da986c)
 
 ## 2-To run the project pt.2
 1. Open "CS-DependencyInjected-SimpleAPI.sln"
 2. Go to the 'appsettings.json' file <br> ![image](https://github.com/OscarChavez99/CS-DependencyInjected-SimpleAPI/assets/80979314/30ff449f-4922-47a7-b5c5-d20edf8f519f)
 3. If your database is NOT hosted on "localhost", modify the "DataSource" field <br> ![image](https://github.com/OscarChavez99/CS-DependencyInjected-SimpleAPI/assets/80979314/d086920a-4b3b-49f6-8163-dcdbccc4b559)
-4. If you named your database differently, modify it in the "Database" field <br> ![image](https://github.com/OscarChavez99/CS-DependencyInjected-SimpleAPI/assets/80979314/3292877b-9cc4-4dbc-86eb-4b8c1e2b829e)
+4. If you named your database differently, modify it in the "Database" field <br> ![image](https://github.com/OscarChavez99/CS-DependencyInjected-SimpleAPI/assets/80979314/fd103cd1-1450-4092-a621-55266d1bf9f6)
 5. Modify the "User" and "Password" fields if needed
 
 ## 3-How to use the program?
