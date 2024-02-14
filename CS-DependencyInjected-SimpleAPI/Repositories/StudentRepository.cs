@@ -149,7 +149,8 @@ namespace CS_DependencyInjected_SimpleAPI.Repositories
                     var sqlBuilder = new SqlBuilder();
                     var template   = sqlBuilder.AddTemplate("UPDATE students " +
                         "SET " +
-                        "name = @name, age = @age " +
+                        "name = @name, " +
+                        "age = @age " +
                         "WHERE id = @id");
 
                     var parameters = new DynamicParameters();
